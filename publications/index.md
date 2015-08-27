@@ -27,8 +27,7 @@ layout: default
 	year={2015},
 	publisher={Springer},
 	series={LNCS}
-}
-	</pre>
+}</pre>
 </div>
 
 <br/>
@@ -57,8 +56,7 @@ layout: default
 	journal={IET Systems Biology},
 	year={2015},
 	publisher={IET}
-}
-	</pre>
+}</pre>
 </div>
 
 
