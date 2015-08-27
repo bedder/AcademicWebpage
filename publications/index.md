@@ -42,9 +42,9 @@ layout: default
 	<span class="location">IET Systems Biology</span>
 	<span class="notes"></span>
 	<div class="links">
-		<span class="links_abstract">[<a href="#smith2015computational_abstract" class="reveal" rel="zhang2015automated_abstract">Abstract</a>]</span>
+		<span class="links_abstract">[<a href="#smith2015computational_abstract" class="reveal" rel="smith2015computational_abstract">Abstract</a>]</span>
 		<span class="links_pdf">[<a href="http://digital-library.theiet.org/content/journals/10.1049/iet-syb.2015.0030">PDF at IET Digital Library</a>]</span>
-		<span class="links_bibtex">[<a href="#smith2015computational_bibtex" class="reveal" rel="zhang2015automated_bibtex">bibTeX</a>]</span>
+		<span class="links_bibtex">[<a href="#smith2015computational_bibtex" class="reveal" rel="smith2015computational_bibtex">bibTeX</a>]</span>
 	</div>
 	<div class="abstract" id="smith2015computational_abstract">
 		This study describes how the application of evolutionary algorithms (EAs) can be used to study motor function in humans with Parkinson's disease (PD) and in animal models of PD. Human data is obtained using commercially available sensors via a range of non-invasive procedures that follow conventional clinical practice. EAs can then be used to classify human data for a range of uses, including diagnosis and disease monitoring. New results are presented that demonstrate how EAs can also be used to classify fruit flies with and without genetic mutations that cause Parkinson's by using measurements of the proboscis extension reflex. The case is made for a computational approach that can be applied across human and animal studies of PD and lays the way for evaluation of existing and new drug therapies in a truly objective way.
