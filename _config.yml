@@ -1,0 +1,15 @@
+# Site settings
+title: Matthew Bedder
+email: mb708@york.ac.uk
+description: >
+  This is the academic webpage for Matthew Bedder, a Ph.D. student in the
+  Intelligent Games and Games Intelligence CDT at the University of York. This
+  webpage contains information of Matthew Bedder's research interestes,
+  publications, and methods for contacting him.
+baseurl: "/~bedder" # the subpath of your site, e.g. /blog/
+url: "http://www-users.cs.york.ac.uk/" # the base hostname & protocol for your site
+twitter_username: bedder
+github_username:  bedder
+
+# Build settings
+markdown: kramdown
