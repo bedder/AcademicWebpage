@@ -12,7 +12,7 @@ layout: default
 	<span class="notes">(To appear)</span>
 	<div class="links">
 		<span class="links_abstract">[<a href="#zhang2015automated_abstract" class="reveal" rel="zhang2015automated_abstract">Abstract</a>]</span>
-		<span class="links_pdf">[<strike>PDF</strike>]</span>
+		<span class="links_pdf">[<a href="http://link.springer.com/chapter/10.1007/978-3-319-23108-2_16">PDF at Springer Link</a>]</span>
 		<span class="links_bibtex">[<a href="#zhang2015automated_bibtex" class="reveal" rel="zhang2015automated_bibtex">bibTeX</a>]</span>
 	</div>
 	<div class="abstract" id="zhang2015automated_abstract">
