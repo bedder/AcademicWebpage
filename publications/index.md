@@ -4,7 +4,7 @@ layout: default
 
 ## Papers
 
-<div class="publication" id="zhang2015automated">
+<div class="publication info" id="zhang2015automated">
 	<span class="authors">Z. Zhang, M. Bedder, S.L. Smith, D. Walker, S. Shabir, J. Southgate</span>
 	<span class="year">(2015)</span>
 	<span class="title">"Automated Motion Analysis of Adherent Cells in Monolayer Culture"</span>,
@@ -39,7 +39,7 @@ layout: default
 
 ## Journals
 
-<div class="publication" id="smith2015computational">
+<div class="publication info" id="smith2015computational">
 	<span class="authors">S.L. Smith, M.A. Lones, M. Bedder, J.E. Alty, J. Cosgrove, R.J. Maguire, M.E. Pownall, D. Ivanoiu, C. Lyle, A. Cording, C.J.H. Elliott</span>
 	<span class="year">(2015)</span>
 	<span class="title">"Computational approaches for understanding the diagnosis and treatment of Parkinson’s disease"</span>,

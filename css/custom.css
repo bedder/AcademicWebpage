@@ -46,30 +46,22 @@ a code:focus {
 	color: #000;
 }
 
-.publication           { margin-bottom: 1rem; }
-.publication .authors  {                      }
-.publication .year     {                      }
-.publication .title    { font-weight: bold;   }
-.publication .location { font-style: italic;  }
-.publication .notes    { font-style: italic;  }
+.info            { margin-bottom: 1rem;           }
+.info .authors   {                                }
+.info .year      {                                }
+.info .title     { font-weight: bold;             }
+.info .location  { font-style: italic;            }
+.info .notes     { font-style: italic;            }
+.info .links a   { font-weight: bold;             }
+.info .abstract,
+.info .bibtex    { display: none;
+                   background-color: #EFEFEF;
+                   border: 1px solid #E1E1E1;
+                   border-radius: 0.5rem;
+                   margin-bottom: 0.5rem;         }
+.info .abstract  { padding: 2rem 1.5rem;          }
+.info .bibtex    { padding: 2rem 1.5rem 0 1.5rem;
+	               font-family: monospace;        }
 .links_abstract,
-.links_bibtex          { display: none;       }
-.publication .links a  { font-weight: bold;   }
-.publication .abstract,
-.publication .bibtex {
-	display: none;
-	background-color: #EFEFEF;
-	border: 1px solid #E1E1E1;
-	border-radius: 0.5rem;
-	margin-bottom: 0.5rem;
-}
-.publication .abstract {
-	padding: 2rem 1.5rem;
-}
-.publication .bibtex {
-	/* We want to hide the fact that the last line is empty */
-	padding: 2rem 1.5rem 0 1.5rem;
-}
-.publication .bibtex {
-	font-family: monospace;
-}
+.links_bibtex    { display: none;                 }
+
