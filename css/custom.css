@@ -61,8 +61,14 @@ a code:focus {
 	background-color: #EFEFEF;
 	border: 1px solid #E1E1E1;
 	border-radius: 0.5rem;
-	padding: 0.5rem 1.5rem;
 	margin-bottom: 0.5rem;
+}
+.publication .abstract {
+	padding: 2rem 1.5rem;
+}
+.publication .bibtex {
+	/* We want to hide the fact that the last line is empty */
+	padding: 2rem 1.5rem 0 1.5rem;
 }
 .publication .bibtex {
 	font-family: monospace;
