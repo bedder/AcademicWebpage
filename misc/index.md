@@ -74,5 +74,6 @@ layout: default
 	<span class="title">Multi-Agent Interactions and Games</span> -
 	<span class="year">2015-2016</span> -
 	<span class="role">Teaching assistant</span>
-	<span class="descr">Performed marking of formative works. I am currently planning to lead a set of lectures about Monte Carlo Tree Search.</span>
+	<span class="descr">Performed marking of formative work, and helped fix ambiguities in the assessments.</span>
+	<span class="descr">I also was responsible for planning and presenting a lecture on Monte Carlo Tree Search. Slides from this can be accessed <a href="http://bedder.co.uk/misc/maig/mcts-2015.pdf">here</a>.</span>
 </span>
