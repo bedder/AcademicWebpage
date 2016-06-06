@@ -47,9 +47,9 @@ a code:focus {
 }
 
 .info            { margin-bottom: 1rem;           }
-.info .authors   {                                }
+.info .authors   { font-size: small;              }
 .info .year      {                                }
-.info .title     { font-weight: bold;             }
+.info .title     { font-weight: bold; display: block; font-size: large; line-height: 105%; }
 .info .location  { font-style: italic;            }
 .info .notes     { font-style: italic;            }
 .info .links a   { font-weight: bold;             }

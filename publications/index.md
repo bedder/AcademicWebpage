@@ -6,10 +6,9 @@ layout: default
 
 <div class="publication info" id="zhang2015automated">
 	<span class="authors">Z. Zhang, M. Bedder, S.L. Smith, D. Walker, S. Shabir, J. Southgate</span>
+	<span class="title">Automated Motion Analysis of Adherent Cells in Monolayer Culture</span>
+	<span class="location">Proceedings of the 10th International Conference on Information Processing in Cells and Tissues</span>
 	<span class="year">(2015)</span>
-	<span class="title">"Automated Motion Analysis of Adherent Cells in Monolayer Culture"</span>,
-	<span class="location">Proceedings of the 10th International Conference on Information Processing in Cells and Tissues (IPCAT'15)</span>
-	<span class="notes">(To appear)</span>
 	<div class="links">
 		<span class="links_abstract">[<a href="#zhang2015automated_abstract" class="reveal" rel="zhang2015automated_abstract">Abstract</a>]</span>
 		<span class="links_pdf">[<a href="http://link.springer.com/chapter/10.1007/978-3-319-23108-2_16">PDF at Springer Link</a>]</span>
@@ -39,11 +38,38 @@ layout: default
 
 ## Journals
 
+<div class="publication info" id="zhang2016characterization">
+	<span class="authors">Z. Zhang, M. Bedder, S.L. Smith, D. Walker, S. Shabir, J. Southgate</span>
+	<span class="title">Characterization and Classification of Adherent Cells in Monolayer Culture using Automated Tracking and Evolutionary Algorithms</span>
+	<span class="location">BioSystems</span>
+	<span class="year">(2016)</span>
+	<span class="notes"></span>
+	<div class="links">
+		<span class="links_abstract">[<a href="#zhang2016characterization_abstract" class="reveal" rel="zhang2016characterization_abstract">Abstract</a>]</span>
+		<span class="links_pdf">[<a href="http://www.sciencedirect.com/science/article/pii/S0303264716300727">PDF at Science Direct</a>]</span>
+		<span class="links_bibtex">[<a href="#zhang2016characterization_bibtex" class="reveal" rel="zhang2016characterization_bibtex">bibTeX</a>]</span>
+	</div>
+	<div class="abstract" id="zhang2016characterization_abstract">
+		This paper presents a novel method for tracking and characterizing adherent cells in monolayer culture. A system of cell tracking employing computer vision techniques was applied to time-lapse videos of replicate normal human uro-epithelial cell cultures exposed to different concentrations of adenosine triphosphate (ATP) and a selective purinergic P2X antagonist (PPADS), acquired over a 24 hour period. Subsequent analysis following feature extraction demonstrated the ability of the technique to successfully separate the modulated classes of cell using evolutionary algorithms. Specifically, a Cartesian Genetic Program (CGP) network was evolved that identified average migration speed, in-contact angular velocity, cohesivity and average cell clump size as the principal features contributing to the separation. Our approach not only provides non-biased and parsimonious insight into modulated class behaviors, but can be extracted as mathematical formulae for the parameterization of computational models.
+	</div>
+	<pre class="bibtex" id="zhang2016characterization_bibtex">
+@article{
+	zhang2016characterization,
+	title = {Characterization and Classification of Adherent Cells in Monolayer Culture using Automated Tracking and Evolutionary Algorithms},
+	author = {Zhang, Zhen and Bedder, Matthew and Smith, Stephen L. and Walker, Dawn and Shabir, Saqib and Southgate, Jennifer},
+	journal = {Biosystems},
+	year = {2016},
+	note = {Accepted Manuscript},
+	doi = {doi:10.1016/j.biosystems.2016.05.009}
+}
+	</pre>
+</div>
+
 <div class="publication info" id="smith2015computational">
 	<span class="authors">S.L. Smith, M.A. Lones, M. Bedder, J.E. Alty, J. Cosgrove, R.J. Maguire, M.E. Pownall, D. Ivanoiu, C. Lyle, A. Cording, C.J.H. Elliott</span>
-	<span class="year">(2015)</span>
-	<span class="title">"Computational approaches for understanding the diagnosis and treatment of Parkinson’s disease"</span>,
+	<span class="title">Computational approaches for understanding the diagnosis and treatment of Parkinson’s disease</span>
 	<span class="location">IET Systems Biology</span>
+	<span class="year">(2015)</span>
 	<span class="notes"></span>
 	<div class="links">
 		<span class="links_abstract">[<a href="#smith2015computational_abstract" class="reveal" rel="smith2015computational_abstract">Abstract</a>]</span>
@@ -66,7 +92,6 @@ layout: default
 }
 	</pre>
 </div>
-
 
 <script src="{{ site.baseurl }}/js/jquery.min.js"></script>
 <script>
